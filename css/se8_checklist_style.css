@@ -1,0 +1,11 @@
+.strikethrough:checked + span {
+  text-decoration:line-through;
+  font-size: 10px;
+  color: grey;
+  font-style: italic;
+}
+
+label{
+	font-size: 16px;
+}
+
